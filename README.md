@@ -1,4 +1,6 @@
-![Aplicação](src/img/readme/KAT_Redacoes.jpg) 
+<p align="center">
+![Aplicação](src/img/readme/KAT_Redacoes.jpg)
+</p>
 
 ![Publicar](src/img/readme/gifs/Publicar.gif)
 
@@ -7,6 +9,7 @@
 <b>Usuário de teste:</b> `login: kat@teste.com | senha: 12345678`
 
 <b>Ou poderá logar com sua conta no Google</b> 😉
+
 
 ## Índice
 
@@ -74,7 +77,7 @@ Com base nas entrevistas e no fluxograma do projeto, foram criados os primeiros 
 
 ### Interface final do Usuário
 
-![Login](src/img/readme/gifs/login.gif) ![Publicar](src/img/readme/gifs/Publicar.gif) ![Publicações](src/img/readme/gifs/Publicações.gif)
+![Login](src/img/readme/gifs/login.gif) ![Publicações](src/img/readme/gifs/Publicações.gif)
 
 ## 6. Ferramentas 🛠️
 
