@@ -1,15 +1,10 @@
-<p align="center">
 ![Aplicação](src/img/readme/KAT_Redacoes.jpg)
-</p>
 
 ![Publicar](src/img/readme/gifs/Publicar.gif)
 
-### <b>Para testar a aplicação [clique aqui!](social-network-24584.web.app/)</b>
+<b>Para testar a aplicação [clique aqui!](social-network-24584.web.app/)</b>
 
 <b>Usuário de teste:</b> `login: kat@teste.com | senha: 12345678`
-
-<b>Ou poderá logar com sua conta no Google</b> 😉
-
 
 ## Índice
 
