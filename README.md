@@ -2,7 +2,7 @@
 
 ![Publicar](src/img/readme/gifs/Publicar.gif)
 
-<b>Para testar a aplicação [clique aqui!](social-network-24584.web.app/)</b>
+<b>Para testar a aplicação [clique aqui!](https://social-network-24584.web.app/)</b>
 
 <b>Usuário de teste:</b> `login: kat@teste.com | senha: 12345678`
 
